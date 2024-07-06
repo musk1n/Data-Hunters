@@ -15,7 +15,7 @@ This project was developed to automate the process of finding CSV files that mee
 
 - `chromedriver.exe`: The ChromeDriver executable required for web scraping.
 - `links_of_submission.xlsx`: The input file containing GitHub repository links.
-- **Printing in the Terminal Only:** For printing the output in terminal on following procedure for running mains.py. The output matches with 'output.txt'.
+- **Creating a text file:** For printing the output in terminal on following procedure for running mains.py. The output matches with 'output.txt'.
     - `mains.py`: The main script that performs the web scraping and data processing.
     - `output.txt`: The output file containing the results of the script execution.
 - **Writing in Excel File:** Print the output in terminal as well as stores in 'updated_links_of_submission.xlsx' on running mains2.py.
@@ -51,13 +51,13 @@ Before you begin, ensure you have met the following requirements:
     pip install -r requirements.txt
     ```
 ## Running the Project
-1. **Execute the mains.py script:**
+1. **For Creating a txt file of:**
     ```bash
     python mains.py
     ```
 You will notice the output same as in output.txt file
 
-2. **Execute the mains2.py script:**
+2. **For Writing in Excel File:**
    ```bash
     python mains2.py
     ```
