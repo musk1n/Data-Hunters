@@ -47,7 +47,7 @@ Before you begin, ensure you have met the following requirements:
     pip install -r requirements.txt
     ```
 ## Running the Project
-**Execute the main script:**
+1. **Execute the main script:**
     ```bash
     python mains.py
     ```
