@@ -5,11 +5,11 @@ This project involves web scraping to identify and extract specific CSV files fr
 This project was developed to automate the process of finding CSV files that meet specific submission criteria from a list of GitHub repositories. The program addresses several scenarios to ensure accurate and efficient data extraction.
 
 **Scenarios Covered:**
-1.**Case1:** if there are many such files, ur code should be able to capture the most recent uploaded file. 
-2.**Case2:** if there is no such file, ur code should report that. 
-3.**Case3:** say you found a csv file, but it fails to suffice the submission criterion, ur code should ignore that and move to the next, until you land at Case1/Case2. 
-4.**Case4:** The provided link isnt even of github, again ur code should report it. 
-5.**Case5:** The csv file may be in some folder, more may be in folder of folders, ur code should be able to deal with that too, to land at case1/case2. 
+1. **Case1:** if there are many such files, ur code should be able to capture the most recent uploaded file. 
+2. **Case2:** if there is no such file, ur code should report that. 
+3. **Case3:** say you found a csv file, but it fails to suffice the submission criterion, ur code should ignore that and move to the next, until you land at Case1/Case2. 
+4. **Case4:** The provided link isnt even of github, again ur code should report it. 
+5. **Case5:** The csv file may be in some folder, more may be in folder of folders, ur code should be able to deal with that too, to land at case1/case2. 
 
 ## Project Files
 
