@@ -46,7 +46,7 @@ Before you begin, ensure you have met the following requirements:
     ```bash
     pip install -r requirements.txt
     ```
-## Running the p\Project
+## Running the Project
 **Execute the main script:**
     ```bash
     python mains.py
@@ -54,5 +54,5 @@ Before you begin, ensure you have met the following requirements:
 You will notice the output same as in output.txt file
 
 ## Credits
-Subhashree Kedia - https://github.com/SKed72274
-Muskan - https://github.com/musk1n
+- Subhashree Kedia - https://github.com/SKed72274
+- Muskan - https://github.com/musk1n
