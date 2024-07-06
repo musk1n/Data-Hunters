@@ -1,7 +1,7 @@
 # Data Hunters - Web Scraping Project
 This project involves web scraping to identify and extract specific CSV files from GitHub repositories. The target CSV files need to meet certain submission criteria, and this project will handle various scenarios to ensure the correct files are identified and processed.
 
-##Project Description
+## Project Description
 This project was developed to automate the process of finding CSV files that meet specific submission criteria from a list of GitHub repositories. The program addresses several scenarios to ensure accurate and efficient data extraction.
 
 **Scenarios Covered:**
