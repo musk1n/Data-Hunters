@@ -1,0 +1,92 @@
+Valid files found: https://github.com/ASNR1010/Hack-a-thon-DataHack-by-IIT-Guwahati/blob/main/submission.csv
+Valid files found: https://github.com/gursharankaur13/Summer-Analytics-2024/blob/main/Week%203%20Hackathon/Output/submission.csv
+No files, if present, match the submission criteria in https://github.com/jigs-bot/GFG_DataHack
+Valid files found: https://github.com/IISHITA-BANERJEE/-IISHITABANERJEE-_Datahack-/blob/main/submission.csv
+Valid files found: https://github.com/iam-venkat03/gfg_datahackathon_iitg/blob/main/xg_test_data.xlsx
+No files, if present, match the submission criteria in https://github.com/rishabhluwang/RishabhSingha_Datahack.git
+No files, if present, match the submission criteria in https://github.com/utsavhingar22/DataHack--Summer-Analytics-2024-IITG-CAC
+No files, if present, match the submission criteria in https://github.com/paras28-05/Summer_analytic_program
+Valid files found: https://github.com/subhadipgit07/Vaccine_Data_Hackacthon/blob/main/Submission_Hackathon.csv
+Valid files found: https://github.com/saarthak5/Summer-Analytics-Datahack/blob/main/final.csv
+No files, if present, match the submission criteria in https://github.com/Ankush142930/DataHack_Solution
+Valid files found: https://github.com/Dh1962/GFGHackathon_sa/blob/main/output.csv
+Valid files found: https://github.com/cateto56/Hackathon/blob/main/result.csv
+No files, if present, match the submission criteria in https://github.com/gunajakku/Logistic_reg_fail/tree/main
+Valid files found: https://github.com/LittleJoeHarp/HACKATHON_1/blob/main/submission.csv
+Valid files found: https://github.com/AyushIsOn/AyushGupta_Datahack/blob/main/submission.csv
+Valid files found: https://github.com/Aditya0300/hackathonsubmit/blob/main/submission.csv
+Valid files found: https://github.com/ItzRangan/DataHack_IITG/blob/main/submission.csv
+Valid files found: https://github.com/Amit-Ghoslya/DataHack-by-IIT-Guwahati/blob/main/submission_1.csv
+Valid files found: https://github.com/deltaparticle/CNA_Hackathon/blob/main/submission_rf%20(1).csv
+Valid files found: https://github.com/Starkdoorstep12/Hackathon_sklearn/blob/main/submissions.csv
+No files, if present, match the submission criteria in https://github.com/amoghkapoor/datahack
+No files, if present, match the submission criteria in https://github.com/YashRajSingh1001/Recipe-for-Rating
+Valid files found: https://github.com/Nihal606/Nihal_kumar_Datahack/blob/main/Nihal_kumar_datahack.csv
+Valid files found: https://github.com/bytefoot/SummerAnalyticsHackathon/blob/main/submission.csv
+Valid files found: https://github.com/SKed72274/Subhashree_Kedia_Datahack/blob/main/submit_final_RFC.csv
+No files, if present, match the submission criteria in https://github.com/BuddyBoy26/Pritvik_Datahack
+No files, if present, match the submission criteria in https://github.com/ayushiGautam-0110/hackathon
+Valid files found: https://github.com/Dibya-ranjan-samal/DibyaRanjanSamal_Datahack/blob/main/subdata.csv
+Valid files found: https://github.com/UTSAVS26/DataHack-by-IIT-Guwahati/blob/main/submission.csv
+No files, if present, match the submission criteria in https://github.com/DataWorshipper/demos
+No files, if present, match the submission criteria in https://github.com/RaunakSeksaria/Summer_h1.git
+No files, if present, match the submission criteria in https://github.com/blankba/VaccinePredictor
+Valid files found: https://github.com/123suraj-sky/DataHack-by-IIT-Guwahati/blob/master/submission.csv
+No files, if present, match the submission criteria in https://github.com/Aviral1611/IIt_guhawati_data_analytics
+No files, if present, match the submission criteria in https://github.com/Shubham-7505/Datahack
+Valid files found: https://github.com/prishant/Rishant-Pal_Datahack/blob/master/final_output.csv
+Valid files found: https://github.com/NarenSchinora/Predictions_naive_bayes/blob/main/submission_1.csv
+Valid files found: https://github.com/Mkaif-Qureshi/Summer-Analytics-IITG/blob/main/submission.csv
+Valid files found: https://github.com/Mkaif-Qureshi/Summer-Analytics-IITG/blob/main/Hackathon/svm_submission.csv
+Valid files found: https://github.com/Mkaif-Qureshi/Summer-Analytics-IITG/blob/main/Hackathon/rf_submission.csv
+Valid files found: https://github.com/Mkaif-Qureshi/Summer-Analytics-IITG/blob/main/Hackathon/final_submission.csv
+Valid files found: https://github.com/shubhamkkgp/Shubham_Kumar_Datahack/blob/main/submission.csv
+Valid files found: https://github.com/PushkarThapar/PushkarThapar_Datahack/blob/main/my_submission.csv
+Valid files found: https://github.com/YashShivhare007/Yash_Shivhare_Datahack/blob/main/test_set_labels.csv
+No files, if present, match the submission criteria in https://github.com/Alokkr00/Hackathon
+Valid files found: https://github.com/mahelika/VaccineProbabilityPredictor_DataHack-by-IIT-Guwahati/blob/main/Mahelika_Datahack.csv
+Valid files found: https://github.com/nsain25/Nandini_Sain_Datahack/blob/main/submission.csv
+Valid files found: https://github.com/SanthoshToorpu/Summer-analytics-sub/blob/main/submission_cv_randomforest.csv
+Valid files found: https://github.com/Pranjali6/Pranjali_Sharma_DataHack/blob/main/submission.csv
+No files, if present, match the submission criteria in https://github.com/akshatsinha744/Summer_Analytics_IIT_Guwahati
+Valid files found: https://github.com/Manshi34-github/Manshi_Kumari_Datahack-24_IIT_Guwahati/blob/main/Manshi_Kumari_Submission.csv
+No files, if present, match the submission criteria in https://github.com/ShubhaSwarup/DataHack
+Valid files found: https://github.com/BadaamPista/DataHack-by-IIT-Guwahati/blob/main/vaccine_predictions.csv
+Invalid GitHub link: https://www.kaggle.com/datasets?search=retail+sales
+Valid files found: https://github.com/smoothcoder64/ArunavaBhattacharya_Datahack/blob/main/Arunava%20Bhattacharya_Datahack.csv
+No files, if present, match the submission criteria in https://github.com/7wik3vedi16/DataHack
+Valid files found: https://github.com/Chinthan07/Vaccine_Dataset_Solution/blob/main/submission.csv
+Valid files found: https://github.com/deepak3726/Deepak-classification-problem/blob/main/hackathon_submission.csv
+Valid files found: https://github.com/rayaankhan/DataHack-by-IIT-Guwahati-GFG-24/blob/main/submission.csv
+Valid files found: https://github.com/chanda-yeswanthreddy/Multilabel_Classification/blob/main/predictions_using_logisticRegression.csv
+Valid files found: https://github.com/chanda-yeswanthreddy/Multilabel_Classification/blob/main/predictions_using_RandomForest.csv
+No files, if present, match the submission criteria in https://github.com/DiyaPrasad2002/Vaccine-Prediction
+Valid files found: https://github.com/sharvilkothari/Sharvil_Kothari_DataHack/blob/main/submission.csv
+No files, if present, match the submission criteria in https://github.com/kanishka73/Hackhathon-iit-guhwati-gfg
+No files, if present, match the submission criteria in https://github.com/FlyingDragon112/ArnavAgarwal_DataHack
+No files, if present, match the submission criteria in https://github.com/bhaskar101010/Probability-Prediction-of-two-vaccines-labels.git
+No files, if present, match the submission criteria in https://github.com/Saksh8/Aastha_Ojha_DataHack.git
+No files, if present, match the submission criteria in https://github.com/Soumyadeep8016/Soumya_datahack
+No files, if present, match the submission criteria in https://github.com/khushigit15/Khushi_DataHack.git
+No files, if present, match the submission criteria in https://github.com/naina123k/Datahack/blob/main/IIT_Guwahati_Datahack
+No files, if present, match the submission criteria in https://github.com/PrakhyatVerma/hackathon.git
+No files, if present, match the submission criteria in https://github.com/awivawie/hkthnpart
+Valid files found: https://github.com/AmanRaj2002/Aman_Raj_Datahack/blob/main/submission_file.csv
+Valid files found: https://github.com/Rhythm-Gubrani/Rhythm_DataHack/blob/main/result.csv
+Valid files found: https://github.com/Mr-Khandelwal/Rajat_Khandelwal_DataHack/blob/main/final.csv
+Valid files found: https://github.com/anuj-kasera/DataHack/blob/main/submission.csv
+No files, if present, match the submission criteria in https://github.com/AnushkaGuptaa/Anushka_Gupta_DataHack
+No files, if present, match the submission criteria in https://github.com/singhapeksha/data_hack
+No files, if present, match the submission criteria in https://github.com/VeryVarg/IITG
+No files, if present, match the submission criteria in https://github.com/darkfan-tasy/Summer-Analytics-2024
+No files, if present, match the submission criteria in https://github.com/Balaji20042008/Hackathon.git
+No files, if present, match the submission criteria in https://github.com/Mridhubashini/mridhubashini_datahack
+No files, if present, match the submission criteria in https://github.com/Ayushs2/Datahack-byIITG.git
+No files, if present, match the submission criteria in https://github.com/mohammed-khaleel/vaccine_prediction
+Valid files found: https://github.com/manishka28/Summer-Analytics-DataHack-by-IIT-Guwahati/blob/main/Manishka_Gupta_DataHack_IIT_Guwahati.csv
+Valid files found: https://github.com/Ikshvaku24/caiitg_datahack/blob/master/submission.csv
+Valid files found: https://github.com/Gourav-IITR/submission_iitg_cac_hackathon_1/blob/main/submission.csv
+No files, if present, match the submission criteria in https://github.com/VARUN3WARE/hackathon
+Valid files found: https://github.com/tarun-009/Tarun_Datahack/blob/main/submission.csv
+Valid files found: https://github.com/pranjal3060/PranjalSingh_Datahack/blob/main/submission.csv
+No files, if present, match the submission criteria in https://github.com/rohitfeed28/amarjeet_datahack
