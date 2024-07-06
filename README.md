@@ -19,7 +19,7 @@ This project was developed to automate the process of finding CSV files that mee
 - `output.txt`: The output file containing the results of the script execution.
 - `submission_format.csv`: The file used to define the submission criteria(submitted file should not be exactly same as this).
 
-##Prerequisites
+## Prerequisites
 Before you begin, ensure you have met the following requirements:
 - Python
 - pip (Python package installer)
