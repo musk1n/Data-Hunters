@@ -51,7 +51,7 @@ Before you begin, ensure you have met the following requirements:
     pip install -r requirements.txt
     ```
 ## Running the Project
-1. **For Creating a txt file of:**
+1. **For Creating a txt file:**
     ```bash
     python mains.py
     ```
