@@ -31,6 +31,7 @@ Before you begin, ensure you have met the following requirements:
 - **Download and install ChromeDriver:**
     - [ChromeDriver Download](https://sites.google.com/a/chromium.org/chromedriver/downloads)
     - Ensure the downloaded `chromedriver.exe` is placed in the project directory.
+    - Ensure that you download the most recent version of chromedriver.exe
 
 ## Setup Instructions
 
@@ -48,7 +49,7 @@ Before you begin, ensure you have met the following requirements:
 
 3. **Install the required packages:**
     ```bash
-    pip install -r requirements.txt
+    pip install selenium beautifulsoup4
     ```
 ## Running the Project
 1. **For Creating a txt file:**
